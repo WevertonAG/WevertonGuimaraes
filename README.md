@@ -1,5 +1,5 @@
 # Weverton Guimaraes
-
+<div align="center"> <img src=""/>
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/weverton-alves-guimar%C3%A3es-2893a7186/"><i>Weverton Guimarães</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.cod3r.com.br/?ref=4b3da5&gclid=Cj0KCQiAieWOBhCYARIsANcOw0wRWUuN_eadIBDXFnYLjau31KQu04rCNnFKSYh4nYBxub9rGKCh1aUaAhrxEALw_wcB"><i>Cod3r</i></a> e compartilho meu aprendizado fazendo live no meu  canal na <a href="https://www.twitch.tv/screwfps/"><i>Twitch</i></a><span> 👉🏽️</span>
@@ -10,11 +10,11 @@
 </div>
 
 
-<!-- <h1 align="center"> 
-  Trybe
+<h1 align="center"> 
+    Sistemas de Informação - Instituto Fedaral de Goiás (IFG)
 </h1>
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+<p align="center">O IFG é um institudo com ótimos cursos dentre eles o Sistemas de Informação ao qual eu iniciei a carreira academica em 2019. Sem saber o que esperar e sobre o que se tratava o curso entrei de cabeça no mundo da informação e hoje eu sou um dos amantes de programação.</p> 
 
 <div align="center">
   <a href="https://github.com/WevertonAG">
@@ -45,7 +45,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/wevertoang/wevertonag/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
