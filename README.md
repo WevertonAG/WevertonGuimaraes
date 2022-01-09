@@ -1,5 +1,5 @@
 # Weverton Guimaraes
-<div align="center"> <img src="./assets/perfilgit.jpg"/>
+<div align="center"> <div><img src="./assets/perfilgit.jpg"/></div>
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/weverton-alves-guimar%C3%A3es-2893a7186/"><i>Weverton Guimarães</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.cod3r.com.br/?ref=4b3da5&gclid=Cj0KCQiAieWOBhCYARIsANcOw0wRWUuN_eadIBDXFnYLjau31KQu04rCNnFKSYh4nYBxub9rGKCh1aUaAhrxEALw_wcB"><i>Cod3r</i></a> e compartilho meu aprendizado fazendo live no meu  canal na <a href="https://www.twitch.tv/screwfps/"><i>Twitch</i></a><span> 👉🏽️</span>
@@ -51,5 +51,4 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
