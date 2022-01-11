@@ -13,7 +13,7 @@
 
 <p align="center">O IFG é um institudo com ótimos cursos dentre eles o Sistemas de Informação ao qual eu iniciei a carreira academica em 2019. Sem saber o que esperar e sobre o que se tratava o curso entrei de cabeça no mundo da informação e hoje eu sou um dos amantes de programação.</p> 
 <hr/>
-<h2 align="center"> Minha comunidade </h2>
+<h1 align="center"> Minha comunidade </h1>
   <p align="center">Nesse período de pandemia, quando as aulas começaram a ser EAD criei uma comunidade de S.I no Discord onde trocamos informações sobre tecnologia e nos ajudamos a entender melhor o mundo da programação.</p>
 
 <div align="center">
