@@ -13,6 +13,13 @@
 
 <p align="center">O IFG é um institudo com ótimos cursos dentre eles o Sistemas de Informação ao qual eu iniciei a carreira academica em 2019. Sem saber o que esperar e sobre o que se tratava o curso entrei de cabeça no mundo da informação e hoje eu sou um dos amantes de programação.</p> 
 <hr/>
+
+<h1 align="center">
+    Frontend 
+</h1>
+<p align="center">
+Escolhi o frontend como meu desafio diário, eu amo dar vida as coisas e trabalhar com o que o usuário vê torna a experiancia de trabalho ainda mais desafiadora.
+</p>
 <h1 align="center"> Minha comunidade </h1>
   <p align="center">Nesse período de pandemia, quando as aulas começaram a ser EAD criei uma comunidade de S.I no Discord onde trocamos informações sobre tecnologia e nos ajudamos a entender melhor o mundo da programação e também nos divertimos.</p>
 
@@ -34,6 +41,7 @@
 </div><br>
 
 <div align="center">
+
   <a href="https://www.twitch.tv/screwfps/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/g.wevertonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
